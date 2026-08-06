@@ -1,7 +1,7 @@
 # SPX62X Network
 
 <p align="center">
-  <img src="https://i.ibb.co/6035FnCt/xrpllogo.png" alt="SPX62X Logo" width="200"/>
+  <img src="https://i.ibb.co/rKNKyHGR/logo.webp" alt="logo" border="0">
 </p>
 
 **SPX62X** is a decentralized blockchain ecosystem built by a global community of developers, innovators, and builders. It focuses on delivering the next generation of financial and technological infrastructure with speed, security, and scalability at its core.
