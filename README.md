@@ -43,9 +43,6 @@ As the initiative evolves, additional participation methods may be introduced th
 
 SPX62X is designed as an open digital asset project where community input, practical Web3 interaction, and decentralized application concepts can develop together. It focuses on creating a clear foundation for digital payments and broader ecosystem activity while allowing future utility to be introduced carefully as the project matures.
 
-## Risk Notice
-
-Digital assets involve technical, market, and regulatory risks. Nothing in this repository constitutes financial, legal, or investment advice. Always conduct independent research and never commit funds you cannot afford to lose.
 
 ---
 
