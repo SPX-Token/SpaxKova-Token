@@ -1,4 +1,4 @@
-# SPX62X Network
+# SPX62X TOKEN
 
 <p align="center">
   <img src="https://i.ibb.co/rKNKyHGR/logo.webp" alt="logo" border="0">
